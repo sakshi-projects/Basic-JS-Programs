@@ -1,4 +1,3 @@
-
 const vowel = function(str) 
 {
     let cnt = 0;
@@ -11,6 +10,5 @@ const vowel = function(str)
         }
     }
     return cnt;
-
 }
 console.log(vowel("Hello"))
